@@ -31,14 +31,8 @@ DevOps-мислення допомагає мені поєднувати авт�
 ---
 
 ##  Контакти
-- **Email:** Rachtelefik@gmail.com  
-- **LinkedIn:**  
-<p>
-	<a href="https://www.linkedin.com/in/anton-rachuk-129b35192/">
-		<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-	</a>
-</p>
-
+✉️ [Написати мені на Gmail](mailto:Rachtelefik@gmail.com)  
+🌐 [Мій LinkedIn](https://www.linkedin.com/in/anton-rachuk-129b35192/)
 ---
 
 <p align="center">
