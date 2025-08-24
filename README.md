@@ -8,7 +8,7 @@
 
 ---
 
-## ​ Про мене
+## 🚀 Трохи про мене
 Мене звати **Антон**, я — системний адміністратор із понад **15 роками досвіду в ІТ**.  
 DevOps-мислення допомагає мені поєднувати автоматизацію, моніторинг та оптимізацію системних процесів.
 
@@ -19,7 +19,7 @@ DevOps-мислення допомагає мені поєднувати авт�
 
 ---
 
-## ​​ Технології та інструменти
+## 🛠️ Чим я працюю
 <p>
 	<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
@@ -30,7 +30,7 @@ DevOps-мислення допомагає мені поєднувати авт�
 
 ---
 
-##  Контакти
+## 🤝 Давай на зв’язку
 ✉️ [Написати мені на Gmail](mailto:Rachtelefik@gmail.com)  
 🌐 [Мій LinkedIn](https://www.linkedin.com/in/anton-rachuk-129b35192/)
 ---
